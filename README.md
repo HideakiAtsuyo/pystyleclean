@@ -26,6 +26,9 @@ pip3 install pystyleClean
 ```
 pypi package link: [pypi.org#pystyleClean](https://pypi.org/project/pystyleClean)
 
+- How can I switch from `pystyle` to `pystyleclean` ?
+  - Well it's very simple, rename the module from `pystyle` to `pystyleclean` in your project then do the install command.
+
 REMEMBER TO ALWAYS VERIFY ARCHIVES IN DOWNLOAD SECTION TO AVOID MALICIOUS CODE !
 
 <details>
