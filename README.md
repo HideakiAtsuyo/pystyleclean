@@ -1,30 +1,30 @@
 <h1 align="center">PyStyleClean</h1>
 <br>
 
-> **Warning**<br>Why this repo exist ? Billy grabbed people making people think he got grabbed, so I decided to re-publish the module under the name `pystyleClean` to avoid it to be modified with any malicious change.<br>Only the real code updates he will do will be published, no unknown module will be added.
+> **Warning**<br>Why this repo exist ? Billy grabbed people making people think he got grabbed, so I decided to re-publish the module under the name `pystyleclean` to avoid it to be modified with any malicious change.<br>Only the real code updates he will do will be published, no unknown module will be added.
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/HideakiAtsuyo/pystyleClean/blob/main/README.md" target="_blank">
+  <a href="https://github.com/HideakiAtsuyo/pystyleclean/blob/main/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/HideakiAtsuyo/pystyleClean" target="_blank">
+  <a href="https://github.com/HideakiAtsuyo/pystyleclean" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-depend-green.svg" />
   </a>
-  <a href="https://github.com/HideakiAtsuyo/pystyleClean/blob/main/LICENSE" target="_blank">
-    <img alt="License: EPL-2.0" src="https://img.shields.io/github/license/HideakiAtsuyo/pystyleClean" />
+  <a href="https://github.com/HideakiAtsuyo/pystyleclean/blob/main/LICENSE" target="_blank">
+    <img alt="License: EPL-2.0" src="https://img.shields.io/github/license/HideakiAtsuyo/pystyleclean" />
   </a>
-  <a href="https://pepy.tech/project/pystyleClean" target="_blank">
-    <img alt="Downloads" src="https://static.pepy.tech/personalized-badge/pystyleClean?period=total&units=international_system&left_color=grey&right_color=orange&left_text=Downloads" />
+  <a href="https://pepy.tech/project/pystyleclean" target="_blank">
+    <img alt="Downloads" src="https://static.pepy.tech/personalized-badge/pystyleclean?period=total&units=international_system&left_color=grey&right_color=orange&left_text=Downloads" />
   </a>
 </p>
 
 ## Install
 
 ```sh
-pip3 install pystyleClean
+pip3 install pystyleclean
 ```
-pypi package link: [pypi.org#pystyleClean](https://pypi.org/project/pystyleClean)
+pypi package link: [pypi.org#pystyleclean](https://pypi.org/project/pystyleclean)
 
 - How can I switch from `pystyle` to `pystyleclean` ?
   - Well it's very simple, rename the module from `pystyle` to `pystyleclean` in your project then do the install command.
