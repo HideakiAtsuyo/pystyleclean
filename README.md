@@ -24,6 +24,9 @@
 ```sh
 pip3 install pystyleClean
 ```
+pypi package link: [pypi.org#pystyleClean](https://pypi.org/project/pystyleClean)
+
+REMEMBER TO ALWAYS VERIFY ARCHIVES IN DOWNLOAD SECTION TO AVOID MALICIOUS CODE !
 
 <details>
     <summary>
