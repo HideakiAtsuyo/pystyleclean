@@ -5,16 +5,16 @@
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/billythegoat356/pystyle/blob/main/README.md" target="_blank">
+  <a href="https://github.com/HideakiAtsuyo/pystyleClean/blob/main/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/billythegoat356/pystyle" target="_blank">
+  <a href="https://github.com/HideakiAtsuyo/pystyleClean" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-depend-green.svg" />
   </a>
-  <a href="https://github.com/billythegoat356/pystyle/blob/main/LICENSE" target="_blank">
-    <img alt="License: EPL-2.0" src="https://img.shields.io/github/license/billythegoat356/pystyle" />
+  <a href="https://github.com/HideakiAtsuyo/pystyleClean/blob/main/LICENSE" target="_blank">
+    <img alt="License: EPL-2.0" src="https://img.shields.io/github/license/HideakiAtsuyo/pystyleClean" />
   </a>
-  <a href="https://pepy.tech/project/pystyle" target="_blank">
+  <a href="https://pepy.tech/project/pystyleClean" target="_blank">
     <img alt="Downloads" src="https://static.pepy.tech/personalized-badge/pystyleClean?period=total&units=international_system&left_color=grey&right_color=orange&left_text=Downloads" />
   </a>
 </p>
