@@ -29,7 +29,7 @@ pypi package link: [pypi.org#pystyleclean](https://pypi.org/project/pystyleclean
 - How can I switch from `pystyle` to `pystyleclean` ?
   - Well it's very simple, rename the module from `pystyle` to `pystyleclean` in your project then do the install command.
 
-Example import: `from pystyleclean import`
+Example import: `from pystyleclean import *`
 
 REMEMBER TO ALWAYS VERIFY ARCHIVES IN DOWNLOAD SECTION TO AVOID MALICIOUS CODE !
 
